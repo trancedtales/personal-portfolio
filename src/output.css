@@ -555,3 +555,25 @@ video {
 [hidden] {
   display: none;
 }
+
+
+/*Experience Section CSS*/
+
+.exp-section {
+  display: flex;
+  flex-direction: row-reverse;
+}
+
+h2.exp-title {
+  font-size: 22px;
+  text-align: center
+}
+
+
+.exp-card {
+  display: flex;
+  flex-direction: column;
+  align-content: center;
+  justify-content: center;
+  align-items: center;
+}
